@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/resume"
+        android:title="Hakkında"
+        android:icon="@drawable/resume"/>
+    <item android:id="@+id/how"
+        android:title="Nasıl Yapılır"
+        android:icon="@drawable/mark"/>
+    <item android:id="@+id/cal"
+        android:title="BMI"
+        android:icon="@drawable/calculator"/>
+    <item android:id="@+id/appointment"
+        android:title="Randevu al"
+        android:icon="@drawable/appointment"/>
+    <item android:id="@+id/mark"
+        android:title="Canlı Destek"
+        android:icon="@drawable/support"/>
+
+</menu>

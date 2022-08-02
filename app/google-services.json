@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167718109085",
+    "project_id": "mide2-35e4b",
+    "storage_bucket": "mide2-35e4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167718109085:android:b7cd7e9c59b800be127974",
+        "android_client_info": {
+          "package_name": "com.ulas.doktor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167718109085-fkipfqcqflvg0tfkqou9qg7ov2qjbnmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEbVzfxT2tBxdYFc_winAr_UpAgTZ0qdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167718109085-fkipfqcqflvg0tfkqou9qg7ov2qjbnmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
